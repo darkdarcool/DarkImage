@@ -1,0 +1,2 @@
+class NotAnImage(Exception):
+	pass
